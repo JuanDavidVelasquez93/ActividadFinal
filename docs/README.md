@@ -13,9 +13,6 @@ Esta carpeta contiene la documentación del sistema web desarrollado en Angular 
 
 Las evidencias visuales del sistema se encuentran en la carpeta [`images`](images/). Estas imágenes se referencian desde los archivos Markdown mediante rutas relativas, por ejemplo:
 
-```md
-![Pantalla principal](images/02-pantalla-principal.png)
-```
 
 ## Contexto del sistema
 
