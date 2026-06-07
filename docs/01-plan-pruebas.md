@@ -2,7 +2,7 @@
 
 ## 1.1 Objetivo del plan de pruebas
 
-El objetivo del plan de pruebas es validar que la aplicación web para la creación de pedidos de bandeja paisa funcione correctamente de acuerdo con los requisitos definidos. Las pruebas estarán enfocadas en verificar que el usuario pueda seleccionar alimentos, definir cantidades por porción o gramos, agregar bebidas, gestionar un carrito temporal, enviar pedidos y consultar posteriormente el estado de cada pedido.
+Validar que la aplicación web para la creación de pedidos de bandeja paisa funcione correctamente de acuerdo con los requisitos definidos. Las pruebas estarán enfocadas en verificar que el usuario pueda seleccionar alimentos, definir cantidades por porción o gramos, agregar bebidas, gestionar un carrito temporal, enviar pedidos y consultar posteriormente el estado de cada pedido.
 
 ## 1.2 Estrategia de pruebas utilizada
 
