@@ -5,31 +5,9 @@ Aplicación Angular local para crear pedidos de bandeja paisa, manejar un carrit
 ## Requisitos
 
 - Node.js 18 o superior recomendado.
-- Angular CLI. Si no lo tienes instalado globalmente, puedes ejecutar los comandos con `npx ng`.
+- Angular CLI.  `npx ng`.
 
-## Instalación
 
-```bash
-npm install
-```
-
-## Ejecutar localmente
-
-```bash
-npm start
-```
-
-Abrir en el navegador:
-
-```text
-http://localhost:4200
-```
-
-## Compilar
-
-```bash
-npm run build
-```
 
 ## Funcionalidades incluidas
 
